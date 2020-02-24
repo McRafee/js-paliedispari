@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.check-palindrome {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+h3 {
+    padding: 15px;
+}
